@@ -1,0 +1,47 @@
+body{
+	background-color:  #333333;
+	color: #0d0d0d;
+
+}
+
+div.container{
+	background-color: #999999;
+	margin-top:40px;
+}
+
+h1{
+	font-family: 'Alex Brush';
+	font-weight: bold;
+}
+
+img{
+	border-radius: 20px;
+	margin: 10px;
+}
+
+.top{
+	font-family: 'Lobster';
+	font-size: 18px;
+	margin: 15px;
+	padding: 10px;
+}
+
+h3{
+	font-family: 'Alex Brush';
+	font-size: 45px;
+	font-weight: bolder;
+	margin: 10px;
+	padding: 10px;
+
+}
+
+.bottom{
+	font-family: 'Lobster';
+	font-size: 18px;
+	margin: 15px;
+	padding: 15px;
+}
+
+.link{
+	font-family: 'Lobster';
+}
